@@ -1,4 +1,9 @@
 # react
+> ## 이론 공부
+
+<br />
+
+> ## 기능 구현
 
 ### [파비콘 교체하기](https://github.com/ka0824/react/blob/main/favicon.md)
 
