@@ -1,6 +1,8 @@
 # react
 > ## 이론 공부
 
+### [생명 주기](https://github.com/ka0824/react/blob/main/theory/life_cycle.md)
+
 <br />
 
 > ## 기능 구현
