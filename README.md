@@ -1,6 +1,8 @@
 # react
 > ## 이론 공부
 
+### [jsx란?](https://github.com/ka0824/react/blob/main/theory/jsx.md)
+
 ### [생명 주기](https://github.com/ka0824/react/blob/main/theory/life_cycle.md)
 
 ### [리렌더링이 되는 경우](https://github.com/ka0824/react/blob/main/theory/when_rerendering.md)
