@@ -20,3 +20,9 @@
 ### [tag 안 text 동적으로 수정하기](https://github.com/ka0824/react/blob/main/feat/edit_text_in_tag.md)
 
 ### [스크롤 바 하단으로 이동시키기](https://github.com/ka0824/react/blob/main/feat/scroll_bar_go_bottom.md)
+
+<br />
+
+> ## 라이브러리
+
+### [Redux](https://github.com/ka0824/react/blob/main/library/redux.md)
