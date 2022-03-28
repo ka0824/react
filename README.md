@@ -7,6 +7,8 @@
 
 ### [리렌더링이 되는 경우](https://github.com/ka0824/react/blob/main/theory/when_rerendering.md)
 
+### [Hook](https://github.com/ka0824/react/blob/main/theory/hook.md)
+
 <br />
 
 > ## 기능 구현
