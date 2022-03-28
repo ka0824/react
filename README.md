@@ -26,3 +26,5 @@
 > ## 라이브러리
 
 ### [Redux](https://github.com/ka0824/react/blob/main/library/redux.md)
+
+### [jest](https://github.com/ka0824/react/blob/main/library/jest.md)
