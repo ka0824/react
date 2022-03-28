@@ -20,19 +20,13 @@
 - 필요한 라이브러리를 설치.
 ```
 npm i --save-dev jest    // 테스트할 때만 사용하므로 개발용으로만 사용됨.
-
-npm i @babel/node @babel-preset @babel-core     // jest는 es5 문법으로 실행되므로 바벨을 통해 es6 문법으로 컴파일링 해줘야 함.
 ```
 
 <br />
 
-- 바벨 설정파일 생성하기
-- root 디렉토리에 .babelrc 파일 생성
-```
-{
-	“presets”: [“@babel/preset-env"]
-}
-```
+- babel 설치하기
+- jest는 es6 문법을 지원하지 않으므로 babel을 통해 es5 문법으로 컴파일링 해줘야 함.  
+[babel 설치하기](https://github.com/ka0824/react/blob/main/library/babel.md)
 
 <br />
 
