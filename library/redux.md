@@ -18,7 +18,7 @@
 ```
   npm i redux
   npm i react-redux
-  npm i --save-dev redux-devtools-extensions   // 리덕스 상태를 확인하기 위한 확장프로그램
+  npm i --save-dev redux-devtools-extension   // 리덕스 상태를 확인하기 위한 확장프로그램
 ```
 
 <br />
