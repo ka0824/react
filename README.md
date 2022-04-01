@@ -9,6 +9,8 @@
 
 ### [Hook](https://github.com/ka0824/react/blob/main/theory/hook.md)
 
+### [react에서의 이벤트 위임](https://github.com/ka0824/react/blob/main/feat/event_delegation.md)
+
 <br />
 
 > ## 기능 구현
