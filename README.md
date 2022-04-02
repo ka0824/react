@@ -32,3 +32,9 @@
 ### [Redux](https://github.com/ka0824/react/blob/main/library/redux.md)
 
 ### [jest](https://github.com/ka0824/react/blob/main/library/jest.md)
+
+<br />
+
+> ## 참고문서
+
+### [리액트 공식 문서](https://ko.reactjs.org/docs/getting-started.html)
