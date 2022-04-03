@@ -11,6 +11,8 @@
 
 ### [react에서의 이벤트 위임](https://github.com/ka0824/react/blob/main/feat/event_delegation.md)
 
+### [dataset](https://github.com/ka0824/react/blob/main/theory/data_set.md)
+
 <br />
 
 > ## 기능 구현
