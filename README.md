@@ -35,6 +35,8 @@
 
 ### [jest](https://github.com/ka0824/react/blob/main/library/jest.md)
 
+### [redux-actions](https://github.com/ka0824/react/blob/main/library/redux_actions.md)
+
 <br />
 
 > ## 참고문서
