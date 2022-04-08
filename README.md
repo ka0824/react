@@ -27,6 +27,8 @@
 
 ### [스크롤 바 하단으로 이동시키기](https://github.com/ka0824/react/blob/main/feat/scroll_bar_go_bottom.md)
 
+### [ag-grid 그래프 x축 라벨 삭제하기](https://github.com/ka0824/react/blob/main/feat/ag_grid_delete_bottom.md)
+
 <br />
 
 > ## 라이브러리
