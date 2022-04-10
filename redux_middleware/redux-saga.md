@@ -78,7 +78,7 @@ export default rootReducer;
 ```
 
 <br />
-
+  
 - sagaMiddleware를 등록하고, 실행.
 ```  
 store.js
