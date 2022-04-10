@@ -43,7 +43,7 @@
 
 > ## Redux 미들웨어
 
-### [redux-actions](https://github.com/ka0824/react/blob/main/library/redux_actions.md)
+### [redux-thunk](https://github.com/ka0824/react/blob/main/redux_middleware/redux-thunk.md)
 
 
 <br />
