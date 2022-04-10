@@ -47,6 +47,8 @@
 
 ### [redux-saga](https://github.com/ka0824/react/blob/main/redux_middleware/redux-saga.md)
 
+### [logger](https://github.com/ka0824/react/blob/main/redux_middleware/logger.md)
+
 <br />
 
 > ## 참고문서
