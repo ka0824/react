@@ -45,6 +45,7 @@
 
 ### [redux-thunk](https://github.com/ka0824/react/blob/main/redux_middleware/redux-thunk.md)
 
+### [redux-saga](https://github.com/ka0824/react/blob/main/redux_middleware/redux-saga.md)
 
 <br />
 
