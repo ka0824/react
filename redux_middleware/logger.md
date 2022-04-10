@@ -16,13 +16,14 @@ npm install redux-logger;
 <br />
 
 - logger를 middleware로 등록.
+  - logger는 항상 middleware의 가장 마지막으로 등록.
 ```
 import rootReducer from './reducers/rootReducer';
 import { composeWithDevTools } from 'redux-devtools-extension';
 import { createStore, applyMiddleware } from 'redux';
 import logger from 'redux-logger';
 
-const store = createStore(rootReducer, composeWithDevTools( logger) ));
+const store = createStore(rootReducer, composeWithDevTools( logger) ));    // 만약 사용하는 middleware가 많다면 logger를 가장 나중에 넣어 줌.
 
 export default store;
 ```
