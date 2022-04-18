@@ -39,6 +39,10 @@
 
 ### [redux-actions](https://github.com/ka0824/react/blob/main/library/redux_actions.md)
 
+### [hybrid-crypto-js](https://github.com/ka0824/react/blob/main/library/hybrid_crypto_js.md)
+
+### [babel](https://github.com/ka0824/react/blob/main/library/babel.md)
+
 <br />
 
 > ## Redux 미들웨어
