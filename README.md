@@ -31,6 +31,12 @@
 
 <br />
 
+> ## 에러 핸들링
+
+### [ResizeObserver 에러 해결하기](https://github.com/ka0824/react/blob/main/error/ResizeObserver.md)
+
+<br />
+
 > ## 라이브러리
 
 ### [Redux](https://github.com/ka0824/react/blob/main/library/redux.md)
