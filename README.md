@@ -29,6 +29,8 @@
 
 ### [ag-grid 그래프 x축 라벨 삭제하기](https://github.com/ka0824/react/blob/main/feat/ag_grid_delete_bottom.md)
 
+### [일정시간마다 함수 실행하기](https://github.com/ka0824/react/blob/main/feat/interval_function.md)
+
 <br />
 
 > ## 에러 핸들링
