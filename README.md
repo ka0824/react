@@ -31,6 +31,8 @@
 
 ### [일정시간마다 함수 실행하기](https://github.com/ka0824/react/blob/main/feat/interval_function.md)
 
+### [Url 이용해 query에 정보 담기](https://github.com/ka0824/react/blob/main/feat/use_query_url.md)
+
 <br />
 
 > ## 에러 핸들링
